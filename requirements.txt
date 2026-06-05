@@ -1,0 +1,7 @@
+# No external dependencies required.
+# Uses Python standard library modules:
+# tkinter
+# socket
+# sqlite3
+# threading
+# os
